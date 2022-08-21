@@ -9,3 +9,5 @@ This tool can perform both task simultaneously with different wordlist given at 
 
 Usage :- 
 
+crawly.py --url //addurl --wordlist //add wordlist path
+
