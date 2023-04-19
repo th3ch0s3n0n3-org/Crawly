@@ -1,7 +1,6 @@
 # Crawly
 
-Author: Rishabh Rai 
-        Vinayak Agrawal
+Author: Rishabh Rai and Vinayak Agrawal
         
         
 The main objective of this project is to find out the way to bruteforce directories and subdomains of a web application recursively by giving our own custom wordlist.
